@@ -1,2 +1,9 @@
 rootProject.name = "ConsumerLibraryApplication"
 include ':app'
+
+//ofir: local
+//include ':LibraryApplication'
+//project(':LibraryApplication').projectDir = new File('../LibraryApplication/app')
+
+
+
